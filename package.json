@@ -1,0 +1,8 @@
+{
+  "name": "github-project-frontend-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ikeryo1182/github-project-frontend-sample.git",
+  "author": "ikeryo1182 <ikeryo1182@gmail.com>",
+  "license": "MIT"
+}
